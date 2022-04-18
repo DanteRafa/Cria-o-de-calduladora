@@ -1,2 +1,2 @@
-# Cria-o-de-calduladora
+# Cria-o-de-calculadora
 criando calculadora no Eclipse
